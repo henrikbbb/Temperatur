@@ -14,4 +14,5 @@ SVC von Scikit-Learn
 
 ## Genauigkeit
 Genauigkeit KI: 0,95
-Genauigkeit Mensch: <link>
+
+Genauigkeit Mensch: Link folgt
