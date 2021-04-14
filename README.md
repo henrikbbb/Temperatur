@@ -15,7 +15,7 @@ SVC von Scikit-Learn
 ## Genauigkeit
 Genauigkeit KI: 0,95
 
-Genauigkeit Mensch: Link folgt
+Genauigkeit Mensch: https://temperatur-raten.herokuapp.com/
 
 ## verwendete Pakete
 - numpy
