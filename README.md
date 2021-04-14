@@ -16,3 +16,9 @@ SVC von Scikit-Learn
 Genauigkeit KI: 0,95
 
 Genauigkeit Mensch: Link folgt
+
+## verwendete Pakete
+- numpy
+- pandas
+- sklearn
+- matplotlib
