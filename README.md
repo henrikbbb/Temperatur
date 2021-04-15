@@ -3,7 +3,7 @@ ML Klassifizierungsmodell erkennt, ob Temperaturdaten echt oder gefälscht sind.
 
 Die Daten sind dabei für einen Menschen schlecht unterscheidbar (https://temperatur-raten.herokuapp.com/).
 
-Im Ordner *Beispielwerte* finden sich zwei Bilder mit Beispielen für echte bzw. gefälschte Daten.
+Im Ordner *Beispielwerte* befinden sich zwei Bilder mit Beispielen für echte bzw. gefälschte Daten.
 
 ## Trainingsdaten
 ### wahre Daten
