@@ -1,5 +1,9 @@
 # Temperatur
-ML Klassifizierungsmodell zum Erkennen von gefälschten Temperaturdaten.
+ML Klassifizierungsmodell erkennt, ob Temperaturdaten echt oder gefälscht sind.
+
+Die Daten sind dabei für einen Menschen schlecht unterscheidbar (https://temperatur-raten.herokuapp.com/).
+
+Im Ordner *Beispielwerte* finden sich zwei Bilder mit Beispielen für echte bzw. gefälschte Daten.
 
 ## Trainingsdaten
 ### wahre Daten
@@ -7,7 +11,7 @@ Temperaturwerte von Portland (2012-2017)
 
 Quelle: https://www.kaggle.com/selfishgene/historical-hourly-weather-data?select=temperature.csv
 ### gefälschte Daten
-Zufallswerte, angenähert an Kosinusfunktion
+mathematisch berechnete (Zufalls)Werte, angenähert an Kosinusfunktion
 
 ## Modell
 SVC von Scikit-Learn
